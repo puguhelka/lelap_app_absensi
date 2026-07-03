@@ -4,7 +4,7 @@ publish_to: "none"
 version: 0.1.0+1
 
 environment:
-  sdk: ">=3.4.0 <4.0.0"
+  sdk: ">=3.8.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -13,7 +13,7 @@ dependencies:
   http: ^1.2.2
   shared_preferences: ^2.3.2
   geolocator: ^13.0.1
-  geocoding: ^3.0.0
+  geocoding: ^4.0.0
   image_picker: ^1.1.2
   image: ^4.2.0
   device_info_plus: ^10.1.2
